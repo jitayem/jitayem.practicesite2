@@ -1,0 +1,36 @@
+h1 {
+	font-weight: bold;;
+}
+
+p {
+	font-size: 18px;
+	font-family: Arial;
+	align-self: left;
+}
+
+.pageTitle {
+	color: blue;
+}
+
+#introText {
+	color: gray;
+}
+
+.bottomImage {
+	border-radius: 10px;
+	height: 200px;
+	width: 200px;
+}
+
+section img {
+	height:5%;
+	width:5%;
+}
+
+ul {
+	border: 1px solid;
+}
+
+ul li {
+	list-style-position: inside;
+}
